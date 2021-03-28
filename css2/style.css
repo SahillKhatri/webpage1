@@ -113,6 +113,11 @@ margin: 40px auto 40px;
 padding: 20px 40px;
 
 }
+.copyright{
+  color: white ;
+  padding: 20px 40px;
+  
+}
 .btn {
   background: #3455d9;
   background-image: -webkit-linear-gradient(top, #3455d9, #1249b8);
