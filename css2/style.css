@@ -91,6 +91,11 @@ a:hover{
   float: right;
   margin-left: 50px;
 }
+.camera{
+  width: 25% ;
+  float: left;
+  margin-right: 50px;
+}
 .prog{
   color: white;
   font-size: 40px;
